@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c6c6298-9cfb-456c-8762-8c9ae0e88efa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/android/aacdecoder-android-0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/android/armeabi-v7a/libaacdecoder.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/android/armeabi/libaacdecoder.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/android/mips/libaacdecoder.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/android/x86/libaacdecoder.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi-v11/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi-v9/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_back_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_back_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_pause_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_pause_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_play_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_play_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_skip_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_skip_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_bt_stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-hdpi/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-ldpi-v11/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-ldpi-v9/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-mdpi-v11/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-mdpi-v9/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-mdpi/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-xhdpi-v11/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-xhdpi-v9/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable-xhdpi/zzz_ph_ic_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable/zzz_ph_bt_back.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable/zzz_ph_bt_pause.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable/zzz_ph_bt_play.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/drawable/zzz_ph_bt_skip.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/layout-v11/nypr_ph_hc_notification.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/layout-v11/zzz_ph_hc_notification.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/layout-v16/zzz_ph_jbb_notification.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/values-v11/player_hater_flags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/values-v14/player_hater_flags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/values-v16/player_hater_flags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/values-v8/player_hater_flags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/values/player_hater_flags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/xml/playerhater.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/android/xml/zzz_ph_config_defaults.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.xml" afterPath="$PROJECT_DIR$/plugin.xml" />
+    </list>
+    <ignored path="cordova-plugin-playerhater.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cordova-plugin-playerhater" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26785713">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/plugin.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="244" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="937" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova-plugin-playerhater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova-plugin-playerhater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova-plugin-playerhater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c6c6298-9cfb-456c-8762-8c9ae0e88efa" name="Default" comment="" />
+      <created>1440158852393</created>
+      <option name="number" value="Default" />
+      <updated>1440158852393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="244" y="23" width="1400" height="937" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26785713">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
